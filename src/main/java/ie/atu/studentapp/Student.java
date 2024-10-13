@@ -1,5 +1,7 @@
 package ie.atu.studentapp;
 
+import java.util.Scanner;
+
 public class Student {
     private String name;
     private String email;
